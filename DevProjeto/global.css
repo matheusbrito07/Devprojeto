@@ -1,0 +1,94 @@
+h1,p{ text-align: center;
+
+}
+
+.main-tabela-produto{
+    
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background: white;
+    
+    
+    
+}
+.tabela-produto{
+   
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: rgb(223, 233, 243);
+}
+
+.tabela-produto td{
+   
+    height: 100%;
+    width: 300px;
+    border: black solid 1px;
+
+}
+
+
+.segundaTabela{
+    display: block;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.main-tabela-cliente{
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background: white;
+}
+
+.tabela-cliente{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: rgb(160, 198, 236);
+
+}
+
+.tabela-cliente td{
+   
+    height: 100%;
+    width: 300px;
+    border: black solid 1px;
+
+}
+
+
+
+
+.main-tabela-view{
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background: white;
+}
+
+.tabela-view{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: rgb(53, 145, 238);
+
+}
+
+.tabela-view td{
+   
+    height: 100%;
+    width: 300px;
+    border: black solid 1px;
+
+}
